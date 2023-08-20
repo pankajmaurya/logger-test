@@ -1,2 +1,4 @@
 github.com/pankajmaurya/logger v0.1.0 h1:xCzBLgJT0SmE8mbA0nfajCfUpM76tHtwfzSgHtIZhis=
 github.com/pankajmaurya/logger v0.1.0/go.mod h1:yvsOQVnCTxfS9CoiQobtWModPRYtqdUZwFylWaYFmxk=
+github.com/pankajmaurya/logger v0.2.0 h1:TFU5uJ2R8Wjk4XPH25tbL61frTxUqHQdrFj2Wz9+JGQ=
+github.com/pankajmaurya/logger v0.2.0/go.mod h1:yvsOQVnCTxfS9CoiQobtWModPRYtqdUZwFylWaYFmxk=
